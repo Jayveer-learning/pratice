@@ -1,7 +1,12 @@
 # pratice
 This is my pratice repository because i using this first time. 
 <br>
-[geeksforgeeks](https://geeksforgeeks.org)
+
+### Best platform for learning Django yt channel and website.
+
+> Yt channel - [chai aur code](https://www.youtube.com/@chaiaurcode)
+
+> website - [doc for Django](https://docs.chaicode.com)
 
 
 ### this is an pratice 
